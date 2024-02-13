@@ -17,9 +17,6 @@ Our paper was accepted for IRESP 2024 - please find it here: [![arXiv](https://i
 ![Our Topics-Map](https://github.com/oronnir/VCR/blob/main/MethodArchitecture.png?raw=true "Text-based Video Embedding")
 
 
-![System Architecture](https://github.com/oronnir/VCR/blob/main/UX_flow_chart.png?raw=true "System Architecture")
-
-
 ```
 @misc{nir2024vcr,
       title={VCR: Video representation for Contextual Retrieval}, 
