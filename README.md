@@ -6,6 +6,8 @@ Authors: Oron Nir, Idan Vidra, Avi Neeman, Barak Kinarti, Ariel Shamir
 ## Abstract
 Streamlining content discovery within media archives requires integrating advanced data representations and effective visualization techniques for clear communication of video topics to users. The proposed system addresses the challenge of efficiently navigating large video collections by exploiting a fusion of visual, audio, and textual features to accurately index and categorize video content through a text-based method. Additionally, semantic embeddings are employed to provide contextually relevant information and recommendations to users, resulting in an intuitive and engaging exploratory experience over our topics ontology map using OpenAI GPT-4.
 
+![Our text-based architecture](https://github.com/oronnir/VCR/blob/main/MethodArchitecture.png?raw=true "Text-based Video Embedding")
+
 ## Demo video
 [![arXiv](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=28_3ntFX2Hs)
 
@@ -16,9 +18,7 @@ Our paper was accepted for IRESP 2024 - please find it here: [![arXiv](https://i
 * The TED dataset
 * Code
 
-![Our Topics-Map](https://github.com/oronnir/VCR/blob/main/MethodArchitecture.png?raw=true "Text-based Video Embedding")
-
-
+Please use the following bibtex for citation:
 ```
 @misc{nir2024vcr,
       title={VCR: Video representation for Contextual Retrieval}, 
