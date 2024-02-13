@@ -7,7 +7,7 @@ Authors: Oron Nir, Idan Vidra, Avi Neeman, Barak Kinarti, Ariel Shamir
 Streamlining content discovery within media archives requires integrating advanced data representations and effective visualization techniques for clear communication of video topics to users. The proposed system addresses the challenge of efficiently navigating large video collections by exploiting a fusion of visual, audio, and textual features to accurately index and categorize video content through a text-based method. Additionally, semantic embeddings are employed to provide contextually relevant information and recommendations to users, resulting in an intuitive and engaging exploratory experience over our topics ontology map using OpenAI GPT-4.
 
 ## News and Updates
-Our paper was accepted for IRESP 2024 --- please find it here: [![arXiv](https://img.shields.io/badge/arXiv-2402.07466-b31b1b.svg)]([https://arxiv.org/abs/1234.56789](https://arxiv.org/abs/2402.07466))
+Our paper was accepted for IRESP 2024 - please find it here: [![arXiv](https://img.shields.io/badge/arXiv-2402.07466-b31b1b.svg)](https://arxiv.org/abs/2402.07466)
 
 ## Comming up soon
 * Demo video
