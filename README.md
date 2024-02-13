@@ -13,7 +13,6 @@ Streamlining content discovery within media archives requires integrating advanc
 Our paper was accepted for IRESP 2024 - please find it here: [![arXiv](https://img.shields.io/badge/arXiv-2402.07466-b31b1b.svg)](https://arxiv.org/abs/2402.07466)
 
 ## Comming up soon
-* Demo video
 * The TED dataset
 * Code
 
