@@ -1,7 +1,7 @@
 # VCR: Video representation for Contextual Retrieval
 Authors: Oron Nir, Idan Vidra, Avi Neeman, Barak Kinarti, Ariel Shamir
 
-![Our Topics-Map](URL_of_image "Our Topics-Map")
+![Our Topics-Map]([URL_of_image](https://github.com/oronnir/VCR/blob/main/ArchiveExplorer-04.png) "Our Topics-Map")
 
 ## Abstract
 Streamlining content discovery within media archives requires integrating advanced data representations and effective visualization techniques for clear communication of video topics to users. The proposed system addresses the challenge of efficiently navigating large video collections by exploiting a fusion of visual, audio, and textual features to accurately index and categorize video content through a text-based method. Additionally, semantic embeddings are employed to provide contextually relevant information and recommendations to users, resulting in an intuitive and engaging exploratory experience over our topics ontology map using OpenAI GPT-4.
