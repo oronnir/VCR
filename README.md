@@ -12,9 +12,10 @@ Streamlining content discovery within media archives requires integrating advanc
 [![arXiv](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=28_3ntFX2Hs)
 
 ## News and Updates
-Our paper was accepted for IRESP 2024 - please find it here: [![arXiv](https://img.shields.io/badge/arXiv-2402.07466-b31b1b.svg)](https://arxiv.org/abs/2402.07466)
-License update for data use following TED's license agreement CC by NC ND 4.0 International.
-Sharing our dataset on ![this download link](https://drive.google.com/file/d/1GrxniS1eZch-tUrwex01SpvwX8qrH9uZ/view?usp=drive_link).
+* Our paper was accepted for IRESP 2024 - please find it here: [![arXiv](https://img.shields.io/badge/arXiv-2402.07466-b31b1b.svg)](https://arxiv.org/abs/2402.07466)
+* License update for data use following TED's license agreement CC by NC ND 4.0 International.
+* Sharing our dataset on ![this download link](https://drive.google.com/file/d/1GrxniS1eZch-tUrwex01SpvwX8qrH9uZ/view?usp=drive_link).
+* Sharing our embedded dataset.
 
 ## Comming up soon
 * The TED dataset
