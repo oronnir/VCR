@@ -42,11 +42,20 @@ Streamlining content discovery within media archives requires integrating advanc
 If you find our work useful, please cite:
 
 ```bibtex
-@misc{nir2024vcr,
-  title  = {VCR: Video Representation for Contextual Retrieval},
-  author = {Oron Nir and Idan Vidra and Avi Neeman and Barak Kinarti and Ariel Shamir},
-  year   = {2024},
-  eprint = {2402.07466},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.IR}
+@inproceedings{10.1145/3661725.3661766,
+author = {Nir, Oron and Vidra, Idan and Neeman, Avi and Kinarti, Barak and Shamir, Ariel},
+title = {VCR: Video representation for Contextual Retrieval},
+year = {2024},
+isbn = {9798400716393},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3661725.3661766},
+doi = {10.1145/3661725.3661766},
+abstract = {Streamlining content discovery in media archives requires advanced data representations and effective visualization techniques for clear communication of video topics to users. The proposed system addresses the challenge of efficiently navigating large video collections by exploiting a fusion of visual, audio, and textual features to accurately index and categorize video content through a text-based method. Additionally, semantic embeddings are employed to provide contextually relevant information and recommendations to users, resulting in an intuitive and engaging exploratory experience over our topics ontology map using LLMs (GitHub).},
+booktitle = {Proceedings of the International Conference on Computing, Machine Learning and Data Science},
+articleno = {39},
+numpages = {9},
+keywords = {Archive Exploration, Media Search, Video Representation},
+location = {Singapore, Singapore},
+series = {CMLDS '24}
 }
