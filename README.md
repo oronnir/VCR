@@ -15,7 +15,7 @@ Streamlining content discovery within media archives requires integrating advanc
 
 ---
 
-## Download the Data&nbsp;&nbsp;📦
+## Download the TED VCR Data&nbsp;&nbsp;📦
 | File | Description | Size | Download |
 |------|-------------|------|----------|
 | **TED-VCR Dataset**<br>`ted_vcr.zip` | Raw TED talks trimmed, aligned, and curated for our experiments | 4.2 GB | [![Download](https://img.shields.io/badge/TED%20Dataset-DOWNLOAD-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/uc?export=download&id=1GrxniS1eZch-tUrwex01SpvwX8qrH9uZ) |
